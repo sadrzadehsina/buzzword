@@ -37,7 +37,7 @@ const Buzzword = () => {
       resetInput();
     } else if (command === "exit") {
       showMessage("👋 Bye Bye");
-      exit();
+			setTimeout(() => exit(), 1500);
     } else {
       showMessage("💣 unknown command");
 			resetList();
