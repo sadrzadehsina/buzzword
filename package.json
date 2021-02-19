@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "bin": {
-    "buzzword": "./index.js"
+    "buzzword": "node index.js"
   },
   "scripts": {
     "start": "node index.js"
