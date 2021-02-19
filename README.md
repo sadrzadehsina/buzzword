@@ -6,4 +6,12 @@ Every time I read something, I face a huge number of unknown words. I remember l
 
 ![ShowCase](showcase.gif)
 
+```
+// install
+npm install -g buzzword
+
+// use
+buzzword
+```
+
 This is its initial version. I am thinking of adding more neat feature to it. However for now it just solve my problem. I hope it does solve yours too :)
