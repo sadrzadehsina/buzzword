@@ -1,10 +1,10 @@
 {
   "name": "buzzword",
   "version": "1.0.4",
-  "description": "",
+  "description": "Keep buzzwords out of your mind",
   "main": "index.js",
   "bin": {
-    "buzzword": "node ./index.js"
+    "buzzword": "./index.js"
   },
   "scripts": {
     "start": "node index.js"
