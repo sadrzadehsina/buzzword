@@ -1,0 +1,27 @@
+{
+  "name": "buzzword",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sadrzadehsina/buzzword.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sadrzadehsina/buzzword/issues"
+  },
+  "homepage": "https://github.com/sadrzadehsina/buzzword#readme",
+  "dependencies": {
+    "import-jsx": "^4.0.0",
+    "ink": "^3.0.8",
+    "ink-text-input": "^4.0.1",
+    "lowdb": "^1.0.0",
+    "react": "^17.0.1"
+  }
+}
