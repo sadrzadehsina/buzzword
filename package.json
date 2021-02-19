@@ -1,6 +1,6 @@
 {
   "name": "buzzword",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Keep buzzwords out of your mind",
   "main": "index.js",
   "bin": {
