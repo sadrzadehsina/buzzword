@@ -15,3 +15,9 @@ buzzword
 ```
 
 This is its initial version. I am thinking of adding more neat feature to it. However for now it just solve my problem. I hope it does solve yours too :)
+
+## Todo
+
+<input type='checkbox' disabled /> Add a way for categorizing words. Like when I am listening or reading something about `react` I want to capture its buzzwords in a separate category.  
+<input type='checkbox' disabled /> Support something like `npx buzzword add <word>`  
+<input type='checkbox' disabled /> Support a way to sync words between multiple devices.
